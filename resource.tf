@@ -17,5 +17,5 @@ provider "google" {
 
 
 module "my-vpcs" {
-  source = 
+  source = "https://github.com/Anjanreddytaidula/module.git"
 }
